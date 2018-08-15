@@ -9,7 +9,9 @@
 
 ![](https://raw.githubusercontent.com/RogerDTZ/Muse/master/Example.jpg)
 
-　　I spent a lot of time, trying to modify those colors, in order to reach a comfortable layout.
+　　(Well what you can see through terminal's transparency in the back is actually my desktop background image. )
+
+​	I spent a lot of time, trying to modify those colors, in order to reach a comfortable layout.
 
 　　Till now i haven't try other language's syntax highlighted yet but C++, so I am not sure that Muse will perfectly adapted other language such as python and C.
 
