@@ -11,7 +11,7 @@
 
 　　
 
-##Effect
+##Example
 
 　　Following is an example when using **terminal** and **vim** for coding. I have tried to displayed as many elements in this i mage, such as syntax highlighted, vim's hilighted search, fold function, brackets match, annotation, and the cursor's color.
 
