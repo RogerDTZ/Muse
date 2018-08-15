@@ -1,4 +1,4 @@
-BackgroundColour=34,33,41
+BackgroundColour=18,24,24
 ForegroundColour=230,230,230
 CursorColour=255,127,39
 Black=0,0,0
