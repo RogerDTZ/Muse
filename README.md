@@ -3,7 +3,7 @@
 
 　　
 
-#If you want to use Muse
+## If you want to use Muse
 
 　　To use Muse, just open the file [**Muse.txt**](https://github.com/RogerDTZ/Muse/blob/master/Muse.txt) to copy the color settings out, and then paste them into your terminal's option file, suchas "**.minttyrc**" for **msys.**	
 
@@ -11,7 +11,7 @@
 
 　　
 
-#Example
+## Example
 
 　　Following is an example when using **terminal** and **vim** for coding. I have tried to displayed as many elements in this i mage, such as syntax highlighted, vim's hilighted search, fold function, brackets match, annotation, and the cursor's color.
 
